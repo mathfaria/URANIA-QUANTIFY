@@ -1,8 +1,4 @@
 # Quantify (for weather balloons)
-## [+] How to use:
-#### 
-´´´import quantify
-quantify.weatherBalloonData(INPUT HERE!)´´´
 ## [+] About:
 #### Hello! I created this Python function to help scientists and hobbyist to calculate useful data about weather balloons!
 #### We used a lot of math and physics formulas to calculate those values, but some of them doesn't work so well, like "ascent speed", if you want to get a precise value, I recommend this site: http://tools.highaltitudescience.com/#. This program is _open-source_, so feel free to edit something if you think that it could improve the performance!
